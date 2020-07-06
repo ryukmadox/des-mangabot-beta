@@ -101,7 +101,7 @@ def getMessage():
 @app.route('/')
 def webhook():
     bot.remove_webhook()
-    bot.set_webhook(url='https://des-mangabot.herokuapp.com/'+api)
+    bot.set_webhook(url='https://yourbotdomain.com/'+api)
     return 'oke',200
 
 if __name__ == "__main__":
