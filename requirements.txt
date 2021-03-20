@@ -8,7 +8,7 @@ fake-useragent==0.1.11
 Flask==1.1.2
 idna==2.7
 itsdangerous==1.1.0
-Jinja2==2.11.2
+Jinja2==2.11.3
 MarkupSafe==1.1.1
 py==1.4.29
 pyaes==1.6.1
