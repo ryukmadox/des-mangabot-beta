@@ -10,7 +10,7 @@ idna==2.7
 itsdangerous==1.1.0
 Jinja2==2.11.2
 MarkupSafe==1.1.1
-py==1.4.29
+py==1.10.0
 pyaes==1.6.1
 pyasn1==0.4.8
 pytest==3.0.2
