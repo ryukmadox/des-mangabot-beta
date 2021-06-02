@@ -21,6 +21,6 @@ six==1.9.0
 soupsieve==2.0.1
 spark-parser==1.8.9
 Telethon==1.14.0
-urllib3==1.24.3
+urllib3==1.26.5
 Werkzeug==1.0.1
 xdis==5.0.0
