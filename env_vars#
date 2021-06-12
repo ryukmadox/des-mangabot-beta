@@ -12,12 +12,4 @@ import os
     OWNER_ID = 1392872370  
     OWNER_USERNAME = "Armin"
     SUPPORT_CHAT = "Manga Bot Support"  
-    JOIN_LOGGER = (
-        -1001253661229
-    )  .
-    EVENT_LOGS = (1001253661229
-        -
-    )  
-
-   
     
