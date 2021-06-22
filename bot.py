@@ -1,4 +1,4 @@
-# CodedBotBy: Desta Adyangga Saputra
+# CodedBotBy: Armin
 #-*- coding: utf-8 -*-
 import telebot
 import requests
@@ -17,7 +17,7 @@ app = Flask(__name__)
 
 @bot.message_handler(commands=['start'])
 def start(message):
-    bot.reply_to(message,"📌 Press /help to show information!")
+    bot.reply_to(message,"Hello sir this is  manga downloading bot made by @arminarlert898 📌 Press /help to show information!")
 
 @bot.message_handler(commands=['help'])
 def help(message):
