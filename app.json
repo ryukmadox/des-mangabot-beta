@@ -13,7 +13,7 @@ run:
          "api",
          "manga-bot"
       ],   
-   "repository": "https://github.com/likucs/SaitamaRobot",
+   "repository": "https://github.com/ryukmadox/des-mangabot-beta",
    "addons": [
       {
          "options": {
