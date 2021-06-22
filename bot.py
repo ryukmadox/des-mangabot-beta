@@ -17,7 +17,7 @@ app = Flask(__name__)
 
 @bot.message_handler(commands=['start'])
 def start(message):
-    bot.reply_to(message,"📌 Press /help to show information!")
+    bot.reply_to(message,"Hello I am a manga-downloading bot made by @arminarlert📌 Press /help to show information!")
 
 @bot.message_handler(commands=['help'])
 def help(message):
